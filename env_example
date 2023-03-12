@@ -1,0 +1,7 @@
+HOST=localhost
+USER=username_BD
+PASSWORD=password_DB
+DB_NAME=name_DB
+
+USER_TOKEN=your_access_token
+GROUP_TOKEN=your_token_group
